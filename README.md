@@ -4,7 +4,7 @@ Docker container for Realm Object Server in order to be able to set it up fast.
 # Usage
 ```docker run -d -v <config-folder>:/etc/realm/ -p 9080:9080 spirosoik/realm-object-server```
 
-## Docker-compose
+### Docker-compose
 
 ```
 # realm database
